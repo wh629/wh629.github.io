@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Will Huang
 # Description of the Site
-description: Researcher - Boardgame Enthusiast - Aspiring Data Scientist
+description: Welcome to my page!
 # URL of Image of the Site
 # site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -60,7 +60,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "blog/:title"
+# permalink: "blog/:title"
 
 # Compress
 compress_html:
