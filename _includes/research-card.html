@@ -1,3 +1,5 @@
+<div class="columns is-centered is-multiline is-mobile">
+  {% for project in site.data.projects %}
     <div class="columns has-text-centered" id="research-card">
     <div class="column is-marginless is-paddingless is-one-third-desktop is-one-third-fullhd is-one-third-tablet">
         <div class="image is-16by9" style="background-image: url({{project.image}});"></div>
@@ -7,9 +9,11 @@
             <h1 class="title is-size-4-touch">{{ project.name }}</h1>
             <br>
             <div class="content has-text-grey">
-                {{ project.description | truncate: 500 }}
+                {{ project.description | truncate: 00 }}
                 <hr class="has-background-grey">
             </div>
         </div>
     </a>
+</div>
+  {% endfor %}
 </div>
