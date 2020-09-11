@@ -15,12 +15,12 @@ layout: compress
     <!--Main Section-->
     <section class="hero is-fullheight" id="project">
         <div class="hero-body">
+            <div class="content is-marginless" align="left">
+                {{ content }}
+            </div>
             <div class="container has-text-centered">
                 <div class="section">
                     <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Have a Good Read</p>
-                </div>
-                <div class="content is-marginless" align="left">
-                    {{ content }}
                 </div>
                 {% include project-card.html %}
             </div>
