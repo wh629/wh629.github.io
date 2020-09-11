@@ -19,9 +19,9 @@ layout: compress
         <div id="results-container"></div>
         <!--Blog Cards Section-->
         {% for post in site.posts %}
-        {% unless post.title == 'template' %}
+        <!-- {% unless post.title == 'template' %} -->
             {% include research-card.html %}
-        {% endunless %}
+        <!-- {% endunless %} -->
         {% endfor %}
         </div>
     </section>
