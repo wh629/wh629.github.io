@@ -1,5 +1,5 @@
 ---
-layout: research
-title: Research
+layout: publications
+title: Publications
 ---
 
