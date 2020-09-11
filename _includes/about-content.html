@@ -1,3 +1,5 @@
+{% for writeup in site.about %}
 <div class="content has-text-grey">
-    {{ site.about.aboutcontent.content }}
+    {{ writeup.content }}
 </div>
+{% endfor %}
