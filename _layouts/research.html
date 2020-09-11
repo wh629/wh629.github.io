@@ -10,16 +10,16 @@ layout: compress
 <body>
     {% include navbar.html %}
 
-    <section class="hero is-fullheight" id="blog">
+    <section class="hero is-fullheight" id="research">
         <div class="hero-body">
             <div class="container">
-                {% include blogpage-heading.html %}
+                {% include researchpage-heading.html %}
             </div>
         </div>
         <div id="results-container"></div>
         <!--Blog Cards Section-->
         {% for post in site.posts %}
-            {% include blog-card.html %}
+            {% include research-card.html %}
         {% endfor %}
         </div>
     </section>
