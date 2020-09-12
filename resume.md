@@ -11,7 +11,7 @@ title: Resume
 
 Cumulative GPA: 3.83
 
-Relevant Coursework: Seminar in Semantics (Current), Natural Language Processing (Current), Deep Learning, Natural Language Understanding, Machine Learning, Fundamental Algorithms, Numerical Methods I, Big Data Science, Programming Languages
+Relevant Coursework: Seminar in Semantics (Current), Natural Language Processing (Current), Natural Language Understanding, Deep Learning, Fundamental Algorithms, Programming Languages, Numerical Methods I
 
 #### **Cornell University, College of Engineering**; Ithaca, NY
 
@@ -19,9 +19,9 @@ Relevant Coursework: Seminar in Semantics (Current), Natural Language Processing
 
 Major GPA: 3.76 $$\vert$$ Cumulative GPA: 3.60 $$\vert$$ Cum Laude
 
-Relevant Coursework: Machine Learning, Statistical Data Mining, Optimization I and II, Stochastic Processes, Object Oriented Programming, Engineering Probability and Statistics I and II
+Relevant Coursework: Machine Learning, Optimization, Stochastic Processes, Engineering Probability and Statistics
 
-# Professional and Research Experience
+# Professional \& Research Experience
 
 #### Machine Learning for Language (ML<sup>2</sup>); New York, NY
 
@@ -35,7 +35,13 @@ Relevant Coursework: Machine Learning, Statistical Data Mining, Optimization I a
 
 #### American International Group, Inc (AIG); New York, NY
 
-*Enterprise Risk Management Analyst II* (Aug 2016 --- Jun 2019)
+*Enterprise Risk Management Analyst II* (Mar 2019 --- Jun 2019)
+
+- asdf
+- asdf
+- asdf
+
+*Enterprise Risk Management Analyst * (Aug 2016 --- Mar 2019)
 
 - asdf
 - asdf
@@ -83,7 +89,7 @@ Fall 2016, Teaching Assistant, ORIE 3300: Optimization I
 
 | <!-- -->             | <!-- -->                                                     |
 | -------------------- | ------------------------------------------------------------ |
-| **Technical Skills** | Python $$\bullet$$ MATLAB $$\bullet$$ Microsoft Office $$\bullet$$ Latex |
-| **Packages**         | PyTorch $$\bullet$$ Pandas $$\bullet$$ Numpy $$\bullet$$ Huggingface $$\bullet$$ Matplotlib $$\bullet$$ Pyro |
+| **Technical Skills** | Python $$\bullet$$ MATLAB $$\bullet$$ Microsoft Office $$\bullet$$ Latex $$\bullet$$ Java $$\bullet$$ SQL |
+| **Packages**         | PyTorch $$\bullet$$ Pandas $$\bullet$$ Numpy $$\bullet$$ Huggingface $$\bullet$$ Matplotlib $$\bullet$$ Pyro $$\bullet$$ spaCy |
 | **Interests**        | Board Games $$\bullet$$ Skiing $$\bullet$$ Fantasy Football $$\bullet$$ Cooking |
 
