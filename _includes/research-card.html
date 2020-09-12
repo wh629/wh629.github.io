@@ -8,10 +8,8 @@
         <div class="column has-text-left-desktop has-text-left-tablet">
             <h1 class="title is-size-4-touch">{{ project.name }}</h1>
             <br>
-            <h3 class="title is-size-4-touch">{{ project.authors }}</h3>
-            <div class="content has-text-grey">
-                {{ project.pubtype }}
-            </div>
+            <h4 class="title is-size-4-touch">{{ project.authors }}</h4>
+            <h4 class="title is-size-4-touch">{{ project.pubtype }}</h4>
             <br>
             <div class="content has-text-grey">
                 {{ project.description | truncate: 500 }}
