@@ -27,7 +27,9 @@
                 <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#contact">Contact</a>
                 <a class="navbar-item {% if page.layout == 'resume' %}is-active{% endif %}"
                     href="{{site.url}}{{site.baseurl}}/resume">Resume</a>
-                {% include dropdown.html %}
+                <a class="navbar-item {% if page.layout == 'research' %}is-active{% endif %}"
+                    href="{{site.url}}{{site.baseurl}}/research">Research</a>
+                <!-- {% include dropdown.html %} -->
             </div>
 
         </div>
