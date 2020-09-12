@@ -21,6 +21,26 @@ Major GPA: 3.76 $$\vert$$ Cumulative GPA: 3.60 $$\vert$$ Cum Laude
 
 Relevant Coursework: Machine Learning, Statistical Data Mining, Optimization I and II, Stochastic Processes, Object Oriented Programming, Engineering Probability and Statistics I and II
 
+# Professional and Research Experience
+
+#### Machine Learning for Language (ML<sup>2</sup>); New York, NY
+
+*Research Assistant* (Sep 2020 --- Present)
+
+- asdf
+
+*Collaborator* (Jun 2020 --- Sep 2020)
+
+- asdf
+
+#### American International Group, Inc (AIG); New York, NY
+
+*Enterprise Risk Management Analyst II* (Aug 2016 --- Jun 2019)
+
+- asdf
+- asdf
+- asdf
+
 # Projects
 
 #### Counterfactually-Augmented NLI Data
@@ -51,26 +71,6 @@ Relevant Coursework: Machine Learning, Statistical Data Mining, Optimization I a
 
 (Feb 2020 --- Mar 2020)
 
-- asdf
-
-# Professional and Research Experience
-
-#### Machine Learning for Language (ML<sup>2</sup>); New York, NY
-
-*Research Assistant* (Sep 2020 --- Present)
-
-- asdf
-
-*Collaborator* (Jun 2020 --- Sep 2020)
-
-- asdf
-
-#### American International Group, Inc (AIG); New York, NY
-
-*Enterprise Risk Management Analyst II* (Aug 2016 --- Jun 2019)
-
-- asdf
-- asdf
 - asdf
 
 # Teaching
