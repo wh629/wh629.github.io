@@ -17,7 +17,7 @@ Relevant Coursework: Seminar in Semantics (Current), Natural Language Processing
 
 ##### ***B.S. with Honors, Operations Research Engineering,*** *Dyson Business Minor for Engineers*; May 2016
 
-Major GPA: 3.76/4.3 $\vert$ Cumulative GPA: 3.60/4.3 $\vert$ Cum Laude
+Major GPA: 3.76/4.3 $$\vert$$ Cumulative GPA: 3.60/4.3 $$\vert$$ Cum Laude
 
 Relevant Coursework: Machine Learning, Statistical Data Mining, Optimization I and II, Stochastic Processes, Object Oriented Programming, Engineering Probability and Statistics I and II
 
@@ -83,7 +83,7 @@ Fall 2016, Teaching Assistant, ORIE 3300: Optimization I
 
 | <!-- -->             | <!-- -->                                                     |
 | -------------------- | ------------------------------------------------------------ |
-| **Technical Skills** | Python $\bullet$ MATLAB $\bullet$ Microsoft Office $\bullet$ Latex |
-| **Packages**         | PyTorch $\bullet$ Pandas $\bullet$ Numpy $\bullet$ Huggingface $\bullet$ Matplotlib $\bullet$ Pyro |
-| **Interests**        | Board Games $\bullet$ Skiing $\bullet$ Fantasy Football $\bullet$ Cooking |
+| **Technical Skills** | Python $$\bullet$$ MATLAB $$\bullet$$ Microsoft Office $$\bullet$$ Latex |
+| **Packages**         | PyTorch $$\bullet$$ Pandas $$\bullet$$ Numpy $$\bullet$$ Huggingface $$\bullet$$ Matplotlib $$\bullet$$ Pyro |
+| **Interests**        | Board Games $$\bullet$$ Skiing $$\bullet$$ Fantasy Football $$\bullet$$ Cooking |
 
