@@ -9,7 +9,7 @@ title: Resume
 
 ##### ***M.S., Scientific Computing***; Anticipated May 2021
 
-Cumulative GPA: 3.83/4.0
+Cumulative GPA: 3.83
 
 Relevant Coursework: Seminar in Semantics (Current), Natural Language Processing (Current), Deep Learning, Natural Language Understanding, Machine Learning, Fundamental Algorithms, Numerical Methods I, Big Data Science, Programming Languages
 
@@ -17,7 +17,7 @@ Relevant Coursework: Seminar in Semantics (Current), Natural Language Processing
 
 ##### ***B.S. with Honors, Operations Research Engineering,*** *Dyson Business Minor for Engineers*; May 2016
 
-Major GPA: 3.76/4.3 $$\vert$$ Cumulative GPA: 3.60/4.3 $$\vert$$ Cum Laude
+Major GPA: 3.76 $$\vert$$ Cumulative GPA: 3.60 $$\vert$$ Cum Laude
 
 Relevant Coursework: Machine Learning, Statistical Data Mining, Optimization I and II, Stochastic Processes, Object Oriented Programming, Engineering Probability and Statistics I and II
 
