@@ -5,4 +5,4 @@ title: Resume
 
 # Random Text
 
-[Resume PDF](/assets/cv/Resume_William_Huang.pdf)
+[Resume PDF](/assets/resume/Resume_William_Huang.pdf)
