@@ -1,6 +1,6 @@
 - name: Temp
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
+  link: https://www.google.com
+  authors: William Huang, ...
   pubtype: Preprint
-  authors: William Huang, Haokun Liu, Samuel R. Bowman
-  description: A growing body of work shows that models exploit annotation artifacts to achieve state-ofthe- art performance on standard crowdsourced benchmarks—datasets collected from crowdworkers to create an evaluation task—while still failing on minimally perturbed examples. Recent work has explored the use of counterfactually-augmented data—data built by minimally editing a set of seed examples to yield counterfactual labels—to augment training data associated with these benchmarks and build more robust classifiers that generalize better. We use English natural language inference data to test model generalization and robustness and find (i) models trained on counterfactually-augmented SNLI data alone do not generalize better compared to similarly large unaugmented datasets and (ii) the data augmentations hurt performance on two diagnostic sets, yielding models that are less robust to adversarial examples and less competent  along several lines of linguistic reasoning. We thus argue that careful consideration should be given to the trade-offs between seed examples and augmented data in counterfactuallyaugmented datasets and encourage researchers to explore this line of work before using such data for training.
+  description: Example Discrition
