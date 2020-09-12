@@ -21,7 +21,7 @@ Major GPA: 3.76 $$\vert$$ Cumulative GPA: 3.60 $$\vert$$ Cum Laude
 
 Relevant Coursework: Machine Learning, Optimization, Stochastic Processes, Engineering Probability and Statistics
 
-# Professional \& Research Experience
+# Professional &amp; Research Experience
 
 #### Machine Learning for Language (ML<sup>2</sup>); New York, NY
 
