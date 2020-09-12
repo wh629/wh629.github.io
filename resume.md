@@ -41,7 +41,7 @@ Relevant Coursework: Machine Learning, Optimization, Stochastic Processes, Engin
 - asdf
 - asdf
 
-*Enterprise Risk Management Analyst * (Aug 2016 --- Mar 2019)
+*Enterprise Risk Management Analyst* (Aug 2016 --- Mar 2019)
 
 - asdf
 - asdf
