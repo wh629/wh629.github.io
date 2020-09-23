@@ -1,6 +1,6 @@
-- name: Temp
+- name: Precise Task Formalization Matters inWinograd Schema Evaluations
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link: https://www.google.com
-  authors: William Huang, ...
-  pubtype: Preprint
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+  link: 
+  authors: Haokun Liu*, William Huang*, Dhara A. Mungra, Samuel R. Bowman
+  pubtype: In Proceedings of the 2020 Conference on Empirical Methods in Natural Language-Processing (EMNLP 2020)
+  description: Performance on the Winograd Schema Challenge (WSC), a respected commonsense reasoning benchmark, recently rocketed from chance accuracy to 89% on the SuperGLUE leaderboard, with relatively little corroborating evidence of a correspondingly large improvement in reasoning ability. We hypothesize part of this improvement comes from recent changes in task formalization by users of the dataset: the combination of input specification, loss function, and the way pretrained parameters are used. We perform an ablation on two Winograd Schema datasets that interpolates between the two formalizations used before and after this surge, and find (i) framing the task as multiple choice improves performance dramatically and (ii) several additional techniques, including the reuse of a pretrained language modeling head, can mitigate the model’s extreme sensitivity to hyperparameters. The impact of task formalization may result in overly optimistic reports of improved commonsense reasoning performance. We urge future benchmark creators to impose additional structure to minimize the impact of formalization decisions on reported results.
