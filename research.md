@@ -3,4 +3,4 @@ layout: research
 title: Research
 ---
 
-*Equal Contribution
+\*Equal Contribution
