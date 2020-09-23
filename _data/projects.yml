@@ -1,5 +1,4 @@
-- name: Precise Task Formalization Matters inWinograd Schema Evaluations
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+- name: Precise Task Formalization Matters in Winograd Schema Evaluations
   link: 
   authors: Haokun Liu*, William Huang*, Dhara A. Mungra, Samuel R. Bowman
   pubtype: In Proceedings of the 2020 Conference on Empirical Methods in Natural Language-Processing (EMNLP 2020)
