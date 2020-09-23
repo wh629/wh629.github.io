@@ -119,6 +119,6 @@ Relevant Coursework: Machine Learning, Optimization, Stochastic Processes, Engin
 | <!-- -->             | <!-- -->                                                     |
 | -------------------- | ------------------------------------------------------------ |
 | **Technical Skills** | Python $$\bullet$$ MATLAB $$\bullet$$ Microsoft Office $$\bullet$$ Latex $$\bullet$$ Java $$\bullet$$ SQL |
-| **Packages**         | PyTorch $$\bullet$$ Pandas $$\bullet$$ Numpy $$\bullet$$ Huggingface $$\bullet$$ Matplotlib $$\bullet$$ Pyro $$\bullet$$ spaCy |
+| **Packages**         | PyTorch $$\bullet$$ Pandas $$\bullet$$ Numpy $$\bullet$$ Huggingface $$\bullet$$ Matplotlib $$\bullet$$ Pyro |
 | **Interests**        | Board Games $$\bullet$$ Skiing $$\bullet$$ Fantasy Football $$\bullet$$ Cooking |
 
