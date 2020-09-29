@@ -28,6 +28,7 @@ Relevant Coursework: Machine Learning, Optimization, Stochastic Processes, Engin
 *Research Assistant* advised by Prof. Samuel R. Bowman (Sep 2020 --- Present)
 
 - Researched the use of Item Response Theory (IRT) as a method to evaluate the relative difficulties of NLP benchmarks
+
 - Developed a program using Pyro to apply black-box Variational Inference to fit an IRT model to a set of machine responses by experimenting with different prior and posterior approximation assumptions
 
 
