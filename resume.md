@@ -64,8 +64,8 @@ Relevant Coursework: Machine Learning, Optimization, Stochastic Processes, Engin
 
 (Jun 2020 --- Aug 2020)
 
-- Researched the use of counterfactually-augmented natural language inference (NLI) training data to improve generalization to out-of-domain problems
-- Analyzed properties of counterfactually-augmented NLI training data by evaluating RoBERTa-based models on a set of diagnostic examples to test both linguistic ability and robustness to distractors
+- Researched properties of counterfactually-augmented NLI training data by evaluating RoBERTa-based models on out-of-domain examples to test generalization and challenge examples to test robustness to distractors
+- Analyzed the lexical diversity of counterfactually-augmented training sets to understand the effectiveness of similarity constraints on augmented examples and whether improvements are a result of greater diversity from larger dataset size
 
 
 
