@@ -72,8 +72,6 @@ Relevant Coursework: Machine Learning, Optimization, Stochastic Processes, Engin
 
 #### Embeddings for Continual Learning
 
-(Feb 2020 --- May 2020)
-
 - Designed an experiment to test a meta-learning algorithm to learn BERT embeddings robust against catastrophic forgetting
 - Developed a program using PyTorch and Huggingface's Transformers libraries to train BERT-based models on a continual learning curriculum of QA tasks and perform our meta-learning experiment
 
@@ -81,16 +79,12 @@ Relevant Coursework: Machine Learning, Optimization, Stochastic Processes, Engin
 
 #### Fake Review Detection with Contextual Embeddings
 
-(Feb 2020 --- May 2020)
-
 - Tested various contextual embedding models on real-life fake review detection to gauge the performance of ALBERT, BERT, and RoBERTa
 - Examined review data to understand feature distributions and mine for user statistics to further discriminate reviews
 
 
 
 #### Unsupervised Document Clustering
-
-(Feb 2020 --- Mar 2020)
 
 - Built a textual data processing pipeline in Java with the StanfordNLP package to read, tokenize, and vectorize documents with term frequency-inverse document frequency (TF-IDF) in preparation for unsupervised clustering
 - Implemented K-Means clustering to group similar documents and performed PCA decomposition for 2D cluster visualization
