@@ -25,18 +25,14 @@ Relevant Coursework: Machine Learning, Optimization, Stochastic Processes, Engin
 
 #### Machine Learning for Language (ML<sup>2</sup>); New York, NY
 
-*Research Assistant* advised by Prof. Samuel R. Bowman (Sep 2020 --- Present)
+*Advised by Prof. Samuel R. Bowman* (Jun 2020 --- Present)
 
 - Researched the use of Item Response Theory (IRT) as a method to evaluate the relative difficulties of NLP benchmarks
+- Developed a script using Pyro to apply black-box Variational Inference to fit an IRT model to a set of machine responses by experimenting with different prior and posterior approximation assumptions
+- Selected a set of NLP benchmarks based on reasoning criteria for a comparison of evaluations tasks
+- Evaluated the use of counterfactually-augmented natural language inference (NLI) training data
 
-- Developed a program using Pyro to apply black-box Variational Inference to fit an IRT model to a set of machine responses by experimenting with different prior and posterior approximation assumptions
-
-
-
-*Collaborator* (Jun 2020 --- Sep 2020)
-
-- Built a custom task sampler with PyTorch to investigate the effect of batching highly similar data during training
-- Curated a set of annotated natural language datasets based on reasoning criteria for a comparison of evaluation tasks
+- Built a custom task sampler with PyTorch to investigate the effect of batching similar examples during deep learning training
 
 
 
@@ -62,19 +58,15 @@ Relevant Coursework: Machine Learning, Optimization, Stochastic Processes, Engin
 
 #### Counterfactually-Augmented NLI Data
 
-(Jun 2020 --- Aug 2020)
-
-- Researched properties of counterfactually-augmented NLI training data by evaluating RoBERTa-based models on out-of-domain examples to test generalization and challenge examples to test robustness to distractors
-- Analyzed the lexical diversity of counterfactually-augmented training sets to understand the effectiveness of similarity constraints on augmented examples and whether improvements are a result of greater diversity from larger dataset size
+- Researched properties of counterfactually-augmented NLI training data by evaluating RoBERTa models on out-of-domain examples and challenge examples to test generalization and robustness
+- Analyzed the lexical diversity of counterfactually-augmented training sets to understand the effectiveness of minimal edit constraints and the role of dataset size
 
 
 
 #### Task Sensitivity to Problem Formalization
 
-(Feb 2020 --- Jun 2020)
-
-- Coordinated several hundred training runs on New York University's high performance computer cluster to train RoBERTa-based models on seven Winograd Schema Challenge (WSC) task formalizations
-- Analyzed and visualized results using Pandas and Matplotlib to perform an ablation analysis between two popular WSC formalizations and attribute the 6% difference in test accuracy
+- Coordinated several hundred training runs on a high performance computer cluster to train RoBERTa and BERT models on seven Winograd Schema Challenge (WSC) task formalizations
+- Analyzed and visualized results using Pandas and Matplotlib for an ablation analysis between two popular WSC formalizations to attribute an 11-21% difference in validation accuracy
 
 
 
