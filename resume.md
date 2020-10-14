@@ -27,9 +27,9 @@ Relevant Coursework: Machine Learning, Optimization, Stochastic Processes, Engin
 
 *Advised by Prof. Samuel R. Bowman* (Jun 2020 --- Present)
 
-- Researched the use of Item Response Theory (IRT) as a method to evaluate the relative difficulties of NLP benchmarks
+- Researched the use of Item Response Theory (IRT) as a method to evaluate the relative difficulties of natural language understanding (NLU) benchmarks
 - Developed a script using Pyro to apply black-box Variational Inference to fit an IRT model to a set of machine responses by experimenting with different prior and posterior approximation assumptions
-- Selected a set of NLP benchmarks based on reasoning criteria for a comparison of evaluations tasks
+- Selected a set of NLU benchmarks based on reasoning criteria for a comparison of evaluations tasks
 - Evaluated the use of counterfactually-augmented natural language inference (NLI) training data
 
 - Built a custom task sampler with PyTorch to investigate the effect of batching similar examples during deep learning training
