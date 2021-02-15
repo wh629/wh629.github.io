@@ -9,9 +9,9 @@ title: Resume
 
 ##### ***M.S., Scientific Computing***; Anticipated May 2021
 
-Cumulative GPA: 3.83
+Cumulative GPA: 3.87
 
-Relevant Coursework: Seminar in Semantics (Current), Natural Language Processing (Current), Natural Language Understanding, Deep Learning, Fundamental Algorithms, Programming Languages, Numerical Methods I
+Relevant Coursework: Seminar in Semantics, Natural Language Processing, Natural Language Understanding, Deep Learning, Fundamental Algorithms, Programming Languages, Numerical Methods I
 
 #### **Cornell University, College of Engineering**; Ithaca, NY
 
